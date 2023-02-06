@@ -1,0 +1,52 @@
+body {
+  background-image: url(https://images.pexels.com/photos/421129/pexels-photo-421129.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-size-adjust: 1000px;
+}
+
+h2 {
+  font-size: 100px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  color: white;
+  text-size-adjust: 1000px;
+}
+
+button {
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  font-weight: bold;
+  width: 200px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+#increment-btn {
+  background: #7d12ff;
+}
+
+#save-btn {
+  background: #ab20fd;
+}
+
+p {
+  font-size: 25px;
+}
+
+div {
+  margin-left: 500px;
+}
